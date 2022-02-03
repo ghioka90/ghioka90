@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ghioka90
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Alex Ghioca
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ghioca.alex@yahoo.com
 
 <!---
